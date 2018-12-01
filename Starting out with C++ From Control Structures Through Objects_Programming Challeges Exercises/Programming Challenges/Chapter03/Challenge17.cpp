@@ -43,7 +43,7 @@ int main()
 	char done; //Allows the user to stay or exit the program
 
 
-	//Being the loop
+	//Begin the loop
 	do
 	{
 
