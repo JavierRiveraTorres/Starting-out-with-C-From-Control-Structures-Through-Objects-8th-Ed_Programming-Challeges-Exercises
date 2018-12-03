@@ -2,7 +2,7 @@
 * Angle Calculator:							      *
 * 									      *
 * Write a program that asks the user for an angle, entered in radians. 	      *
-* 									      *
+*                                                                             *
 * The program should then display the sine, cosine, and tangent of the angle. *
 * (Use the sin, cos, and tan library functions to determine these values.)    *
 * 									      *
